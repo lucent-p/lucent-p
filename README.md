@@ -37,7 +37,7 @@ NETWORKING ━━━━━━━━━━━━━━━━━━━━━━━
   └── Packet Tracer    
 
 SYSADMIN ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-  ├── Windows Server     
+  ├── Windows Server + Linux Server    
   ├── Active Directory   
   ├── VMware
   ├── DNS
