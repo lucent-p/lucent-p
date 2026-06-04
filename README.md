@@ -51,15 +51,6 @@ CLOUD ━━━━━━━━━━━━━━━━━━━━━━━━�
   ├── Azure             
   └── Intune            
 
-OTHER INTEREST ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-  ├── PowerShell   (my beloved, I admin sometimes (most of the time), I don't know exactly what's going on, all I know is it has saved me so much time)
-  ├── SQL Server (basics)
-  ├── Artificial Intelligence and LLMS
-  ├── HTML, Python, Markdown...  (I enjoy exploring different programming languages and markup languages )
-  └── Artificial Intelligence (AI)
-      └── Machine Learning (ML)
-          └── Deep Learning (DL)
-             └── Large Language Models (LLMs)
 ```
 
 ---
@@ -104,6 +95,15 @@ OTHER INTEREST ━━━━━━━━━━━━━━━━━━━━━�
   3D modelling & digital art  →  Blender
   history                     →  the further back the better
   gaming                      →  yes
+
+MORE INTEREST ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  ├── PowerShell   (my beloved, I admin sometimes (most of the time), I don't know exactly what's going on, all I know is it has saved me so much time)
+  ├── SQL Server (basics)
+  ├── HTML, Python, Markdown...  (I enjoy exploring different programming languages and markup languages )
+  └── Artificial Intelligence (AI)
+      └── Machine Learning (ML)
+          └── Deep Learning (DL)
+             └── Large Language Models (LLMs)
 ```
 
 ---
