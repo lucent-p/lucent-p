@@ -96,7 +96,7 @@ CLOUD ━━━━━━━━━━━━━━━━━━━━━━━━�
   gaming                      →  yes
 
 MORE INTEREST ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-  ├── PowerShell   (my beloved, I admin sometimes (most of the time), I don't know exactly what's going on, all I know is it has saved me so much time)
+  ├── PowerShell   (my beloved, I admit sometimes (most of the time), I don't know exactly what's going on, all I know is it has saved me so much time)
   ├── SQL Server (basics)
   ├── HTML, Python, Markdown...  (I enjoy exploring different programming languages and markup languages )
   └── Artificial Intelligence (AI)
