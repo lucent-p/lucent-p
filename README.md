@@ -59,31 +59,31 @@ CLOUD ━━━━━━━━━━━━━━━━━━━━━━━━�
 ```
 ┌──────────────────────────────────────────────────────────────────┐
 │  [1] virtualised server environment                              │
-│      VMware · Windows Server x2 · AD · pfSense · redundancy     │
+│      VMware · Windows Server x2 · AD · pfSense · redundancy      │
 ├──────────────────────────────────────────────────────────────────┤
 │  [2] physical network build                                      │
-│      switches · router · VLANs · extended in Packet Tracer       │
+│      switches · router · VLANs                                   │
 ├──────────────────────────────────────────────────────────────────┤
 │  [3] Microsoft 365 full tenant                                   │
-│      Entra ID · Exchange · Intune · Power Automate · AI Agents   │
+│      Entra ID · Exchange · Intune · Power Automate               │
 ├──────────────────────────────────────────────────────────────────┤
 │  [4] SQL Server lab                                              │
-│      VM deploy · Windows client · SSMS · DB management          │
+│      VM deploy · Windows client · SSMS · DB management           │
 └──────────────────────────────────────────────────────────────────┘
 ```
 
 ---
 
-## `./certs --verified` (currently only free ones)
+## `./courses --completed`
 
 ```
-  [✓] Cisco ············· Introduction to Cybersecurity
+  [✓] Cisco ············· Introduction to Cybersecurity CCNA 1
   [✓] Cisco ············· Computer Hardware Basics
   [✓] Cisco ············· Greenhouse Gas Accounting for IT
   [✓] Microsoft Learn ··· MS-900: Microsoft 365 Apps & Services
   [✓] Microsoft Learn ··· MS-900: Pricing, Licensing & Support
   [✓] Microsoft Learn ··· Introduction to Azure: Cloud Concepts
-  [ ] CCNA ·············· in progress ···························▶
+  [ ] CCNA 2 ·············· in progress ···························▶
 ```
 
 ---
