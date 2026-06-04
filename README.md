@@ -31,26 +31,35 @@
 
 ```
 NETWORKING ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-  ├── Cisco IOS          [██████████████░░░░░░]  CCNA 1 & 2
-  ├── VLANs / Trunking   [████████████████░░░░]  ✓
-  ├── OSPF / Routing     [███████████████░░░░░]  in progress
-  └── Packet Tracer      [██████████████████░░]  ✓
+  ├── Cisco IOS        
+  ├── VLANs / Trunking   
+  ├── OSPF / Routing
+  ├── GNS 3
+  └── Packet Tracer    
 
 SYSADMIN ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-  ├── Windows Server     [████████████████████]  ✓
-  ├── Active Directory   [████████████████████]  ✓
-  ├── VMware             [████████████████████]  ✓
-  └── pfSense            [████████████████████]  ✓
+  ├── Windows Server     
+  ├── Active Directory   
+  ├── VMware
+  ├── DNS
+  ├── DHCP
+  ├── Failover        
+  └── pfSense           
 
 CLOUD ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-  ├── Microsoft 365      [████████████████████]  ✓ (full tenant admin)
-  ├── Azure              [████████░░░░░░░░░░░░]  fundamentals
-  └── Intune             [██████████████░░░░░░]  ✓
+  ├── Microsoft 365     
+  ├── Azure             
+  └── Intune            
 
-OTHER ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-  ├── PowerShell          [██████████░░░░░░░░░░]  ✓ (my beloved I admin sometimes (most of the time) I don't know exactly what's going on, all I know is it has saved me so much time)
-  ├── SQL Server / Oracle [███████████░░░░░░░░░] basics
-  └── HTML, Python,...    [█████████░░░░░░░░░░░]  ✓ (I enjoy exploring different programming languages)
+OTHER INTEREST ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  ├── PowerShell   (my beloved, I admin sometimes (most of the time), I don't know exactly what's going on, all I know is it has saved me so much time)
+  ├── SQL Server (basics)
+  ├── Artificial Intelligence and LLMS
+  ├── HTML, Python, Markdown...  (I enjoy exploring different programming languages and markup languages )
+  └── Artificial Intelligence (AI)
+      └── Machine Learning (ML)
+          └── Deep Learning (DL)
+             └── Large Language Models (LLMs)
 ```
 
 ---
