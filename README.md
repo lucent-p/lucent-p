@@ -19,9 +19,8 @@
 ├─────────────────────────────────────────────────────────────────┤
 │  handle   →  lucent-p                                           │
 │  focus    →  systems & network administration                   │
-│  status   →  studying, labbing, ...                             |
-│  origin   →  visual arts → IT                                   |
-│  langs    →  Dutch · Afrikaans · English                        │
+│  status   →  studying, labbing, crying ...                      |
+│  origin   →  visual arts → IT                                   |                     
 └─────────────────────────────────────────────────────────────────┘
 ```
 
